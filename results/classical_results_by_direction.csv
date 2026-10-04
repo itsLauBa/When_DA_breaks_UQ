@@ -1,0 +1,217 @@
+"design","augmentation","strength","direction","method","coverage","coverage_se","rel_width","rel_width_se","reps"
+"Gaussian design","Dropout",0.1,"signal","Credible",0.171,0.0119122164562646,0.431583340953829,0,1000
+"Gaussian design","Dropout",0.1,"signal","Oracle",0.985,0.00384574957450301,1,0,1000
+"Gaussian design","Dropout",0.1,"signal","Split",1,0,1.18171308253031,0.000709441506545495,1000
+"Gaussian design","Dropout",0.1,"leading","Credible",0.931,0.00801893405031515,0.763483907432841,0,1000
+"Gaussian design","Dropout",0.1,"leading","Oracle",0.981,0.00431945108291062,1,0,1000
+"Gaussian design","Dropout",0.1,"leading","Split",0.996,0.00199699473909873,1.28507925016126,0.000995642048276756,1000
+"Gaussian design","Dropout",0.1,"trailing","Credible",0.872,0.0105701337611087,0.682338905544053,0,1000
+"Gaussian design","Dropout",0.1,"trailing","Oracle",0.992,0.00281850030050451,1,0,1000
+"Gaussian design","Dropout",0.1,"trailing","Split",1,0,1.32264075422604,0.00126888717759501,1000
+"Gaussian design","Dropout",0.25,"signal","Credible",0,0,0.21797291075459,0,1000
+"Gaussian design","Dropout",0.25,"signal","Oracle",0.985,0.00384574957450301,1,0,1000
+"Gaussian design","Dropout",0.25,"signal","Split",1,0,1.20426429361996,0.000958442311732722,1000
+"Gaussian design","Dropout",0.25,"leading","Credible",0.535,0.0157804950500302,0.53072742403318,0,1000
+"Gaussian design","Dropout",0.25,"leading","Oracle",0.981,0.00431945108291062,1,0,1000
+"Gaussian design","Dropout",0.25,"leading","Split",1,0,1.44845132409692,0.00195236166289718,1000
+"Gaussian design","Dropout",0.25,"trailing","Credible",0.108,0.00982000165134569,0.448239200648708,0,1000
+"Gaussian design","Dropout",0.25,"trailing","Oracle",0.992,0.00281850030050451,1,0,1000
+"Gaussian design","Dropout",0.25,"trailing","Split",1,0,1.46820836533257,0.00215910644528236,1000
+"Gaussian design","Dropout",0.4,"signal","Credible",0,0,0.13518011439203,0,1000
+"Gaussian design","Dropout",0.4,"signal","Oracle",0.986,0.00371723254825657,1,0,1000
+"Gaussian design","Dropout",0.4,"signal","Split",1,0,1.21129785590147,0.00104311618799051,1000
+"Gaussian design","Dropout",0.4,"leading","Credible",0.02,0.00442940398017834,0.377129325091982,0,1000
+"Gaussian design","Dropout",0.4,"leading","Oracle",0.981,0.00431945108291062,1,0,1000
+"Gaussian design","Dropout",0.4,"leading","Split",1,0,1.55203453964587,0.00256235014283346,1000
+"Gaussian design","Dropout",0.4,"trailing","Credible",0,0,0.318535217510756,0,1000
+"Gaussian design","Dropout",0.4,"trailing","Oracle",0.991,0.00298796384314265,1,0,1000
+"Gaussian design","Dropout",0.4,"trailing","Split",1,0,1.54147966618172,0.00261032780372424,1000
+"Gaussian design","Gaussian",0.05,"signal","Credible",0.965,0.00581453427273495,0.969667176910788,0,1000
+"Gaussian design","Gaussian",0.05,"signal","Oracle",0.972,0.00521950603441005,1,0,1000
+"Gaussian design","Gaussian",0.05,"signal","Split",0.99,0.00314800093867677,1.11804731516674,3.85841696783303e-05,1000
+"Gaussian design","Gaussian",0.05,"leading","Credible",0.963,0.00597215762238964,0.992779077391816,0,1000
+"Gaussian design","Gaussian",0.05,"leading","Oracle",0.964,0.00589395781616554,1,0,1000
+"Gaussian design","Gaussian",0.05,"leading","Split",0.987,0.00358383088940363,1.11933105932534,2.93452800339272e-05,1000
+"Gaussian design","Gaussian",0.05,"trailing","Credible",0.987,0.00358383088940362,0.988238132507354,0,1000
+"Gaussian design","Gaussian",0.05,"trailing","Oracle",0.988,0.00344497719409983,1,0,1000
+"Gaussian design","Gaussian",0.05,"trailing","Split",0.993,0.00263779414624378,1.1217204840888,4.53807884142225e-05,1000
+"Gaussian design","Gaussian",0.1,"signal","Credible",0.96,0.00619987406633705,0.889200659358843,0,1000
+"Gaussian design","Gaussian",0.1,"signal","Oracle",0.982,0.00420638724961147,1,0,1000
+"Gaussian design","Gaussian",0.1,"signal","Split",0.994,0.00244335219932984,1.12782947796914,0.0001407687911778,1000
+"Gaussian design","Gaussian",0.1,"leading","Credible",0.962,0.00604918115058494,0.971787098120989,0,1000
+"Gaussian design","Gaussian",0.1,"leading","Oracle",0.969,0.0054835270646792,1,0,1000
+"Gaussian design","Gaussian",0.1,"leading","Split",0.988,0.00344497719409983,1.13381141984729,0.000114641844913116,1000
+"Gaussian design","Gaussian",0.1,"trailing","Credible",0.986,0.00371723254825658,0.954823510061692,0,1000
+"Gaussian design","Gaussian",0.1,"trailing","Oracle",0.989,0.00329998331660782,1,0,1000
+"Gaussian design","Gaussian",0.1,"trailing","Split",0.995,0.00223158687484488,1.14264286422644,0.00017418901597109,1000
+"Gaussian design","Gaussian",0.2,"signal","Credible",0.864,0.010845350230473,0.670975268312167,0,1000
+"Gaussian design","Gaussian",0.2,"signal","Oracle",0.985,0.00384574957450301,1,0,1000
+"Gaussian design","Gaussian",0.2,"signal","Split",0.998,0.00141350557055782,1.15406953896539,0.000416116488784422,1000
+"Gaussian design","Gaussian",0.2,"leading","Credible",0.965,0.00581453427273496,0.896736142405391,0,1000
+"Gaussian design","Gaussian",0.2,"leading","Oracle",0.977,0.0047427305946568,1,0,1000
+"Gaussian design","Gaussian",0.2,"leading","Split",0.994,0.00244335219932983,1.18555143095145,0.000419416384697903,1000
+"Gaussian design","Gaussian",0.2,"trailing","Credible",0.977,0.0047427305946568,0.844037186686933,0,1000
+"Gaussian design","Gaussian",0.2,"trailing","Oracle",0.991,0.00298796384314265,1,0,1000
+"Gaussian design","Gaussian",0.2,"trailing","Split",0.997,0.00173031615434693,1.21177790960302,0.000599817582053912,1000
+"UCI Wine","Dropout",0.1,"signal","Credible",0.057,0.00733517585370683,0.426646654595597,0,1000
+"UCI Wine","Dropout",0.1,"signal","Oracle",0.984,0.00396985639031942,1,0,1000
+"UCI Wine","Dropout",0.1,"signal","Split",1,0,1.54084535071746,0.00307340623407545,1000
+"UCI Wine","Dropout",0.1,"leading","Credible",0.976,0.00484225644172705,0.859835429876,0,1000
+"UCI Wine","Dropout",0.1,"leading","Oracle",0.99,0.00314800093867677,1,0,1000
+"UCI Wine","Dropout",0.1,"leading","Split",0.996,0.00199699473909873,1.14959023177066,0.000327440056580243,1000
+"UCI Wine","Dropout",0.1,"trailing","Credible",0.827,0.0119672141375599,0.707003188749431,0,1000
+"UCI Wine","Dropout",0.1,"trailing","Oracle",0.987,0.00358383088940363,1,0,1000
+"UCI Wine","Dropout",0.1,"trailing","Split",1,0,2.27338882192116,0.00723947489060817,1000
+"UCI Wine","Dropout",0.25,"signal","Credible",0,0,0.236240362010358,0,1000
+"UCI Wine","Dropout",0.25,"signal","Oracle",0.987,0.00358383088940363,1,0,1000
+"UCI Wine","Dropout",0.25,"signal","Split",1,0,1.60161590900244,0.00357144456202521,1000
+"UCI Wine","Dropout",0.25,"leading","Credible",0.884,0.010131468138757,0.682334260543454,0,1000
+"UCI Wine","Dropout",0.25,"leading","Oracle",0.992,0.00281850030050451,1,0,1000
+"UCI Wine","Dropout",0.25,"leading","Split",0.999,0.00100000000000001,1.19478474709993,0.000744748026130686,1000
+"UCI Wine","Dropout",0.25,"trailing","Credible",0.015,0.003845749574503,0.503797148286425,0,1000
+"UCI Wine","Dropout",0.25,"trailing","Oracle",0.987,0.00358383088940363,1,0,1000
+"UCI Wine","Dropout",0.25,"trailing","Split",1,0,2.85541367665333,0.010842101364258,1000
+"UCI Wine","Dropout",0.4,"signal","Credible",0,0,0.15855186070148,0,1000
+"UCI Wine","Dropout",0.4,"signal","Oracle",0.987,0.00358383088940363,1,0,1000
+"UCI Wine","Dropout",0.4,"signal","Split",1,0,1.60258788585411,0.00361820044981649,1000
+"UCI Wine","Dropout",0.4,"leading","Credible",0.545,0.0157551014983471,0.530129062740991,0,1000
+"UCI Wine","Dropout",0.4,"leading","Oracle",0.991,0.00298796384314266,1,0,1000
+"UCI Wine","Dropout",0.4,"leading","Split",1,0,1.23382715600777,0.00110438313304147,1000
+"UCI Wine","Dropout",0.4,"trailing","Credible",0,0,0.382640402983691,0,1000
+"UCI Wine","Dropout",0.4,"trailing","Oracle",0.986,0.00371723254825658,1,0,1000
+"UCI Wine","Dropout",0.4,"trailing","Split",1,0,3.11065767021701,0.0124117760233983,1000
+"UCI Wine","Gaussian",0.05,"signal","Credible",0.974,0.0050348137353182,0.965023521833349,0,1000
+"UCI Wine","Gaussian",0.05,"signal","Oracle",0.976,0.00484225644172704,1,0,1000
+"UCI Wine","Gaussian",0.05,"signal","Split",0.987,0.00358383088940363,1.14837324431481,0.000237760596908044,1000
+"UCI Wine","Gaussian",0.05,"leading","Credible",0.985,0.003845749574503,0.996550848277853,0,1000
+"UCI Wine","Gaussian",0.05,"leading","Oracle",0.985,0.003845749574503,1,0,1000
+"UCI Wine","Gaussian",0.05,"leading","Split",0.992,0.00281850030050451,1.11524502601538,8.25132149890679e-06,1000
+"UCI Wine","Gaussian",0.05,"trailing","Credible",0.97,0.0053971408290992,0.988650266325797,0,1000
+"UCI Wine","Gaussian",0.05,"trailing","Oracle",0.974,0.0050348137353182,1,0,1000
+"UCI Wine","Gaussian",0.05,"trailing","Split",0.992,0.00281850030050451,1.17308426220085,0.000363014544196331,1000
+"UCI Wine","Gaussian",0.1,"signal","Credible",0.96,0.00619987406633705,0.875131551400037,0,1000
+"UCI Wine","Gaussian",0.1,"signal","Oracle",0.986,0.0037172325482566,1,0,1000
+"UCI Wine","Gaussian",0.1,"signal","Split",0.997,0.00173031615434692,1.2324326170085,0.000827487110898342,1000
+"UCI Wine","Gaussian",0.1,"leading","Credible",0.983,0.00408995448968909,0.986355315368225,0,1000
+"UCI Wine","Gaussian",0.1,"leading","Oracle",0.986,0.00371723254825658,1,0,1000
+"UCI Wine","Gaussian",0.1,"leading","Split",0.992,0.00281850030050451,1.11789274890917,3.26407837279973e-05,1000
+"UCI Wine","Gaussian",0.1,"trailing","Credible",0.973,0.00512808904927529,0.956767880258113,0,1000
+"UCI Wine","Gaussian",0.1,"trailing","Oracle",0.981,0.00431945108291062,1,0,1000
+"UCI Wine","Gaussian",0.1,"trailing","Split",0.998,0.0014135055705578,1.33317376139474,0.00135245552431469,1000
+"UCI Wine","Gaussian",0.2,"signal","Credible",0.821,0.0121287306057191,0.649967047522515,0,1000
+"UCI Wine","Gaussian",0.2,"signal","Oracle",0.984,0.00396985639031942,1,0,1000
+"UCI Wine","Gaussian",0.2,"signal","Split",0.999,0.00100000000000001,1.41760986601821,0.00214441859104787,1000
+"UCI Wine","Gaussian",0.2,"leading","Credible",0.982,0.00420638724961148,0.947723500521682,0,1000
+"UCI Wine","Gaussian",0.2,"leading","Oracle",0.989,0.00329998331660782,1,0,1000
+"UCI Wine","Gaussian",0.2,"leading","Split",0.994,0.00244335219932985,1.12792356577473,0.000125039512327252,1000
+"UCI Wine","Gaussian",0.2,"trailing","Credible",0.964,0.00589395781616557,0.85430382108641,0,1000
+"UCI Wine","Gaussian",0.2,"trailing","Oracle",0.987,0.00358383088940362,1,0,1000
+"UCI Wine","Gaussian",0.2,"trailing","Split",1,0,1.80119338783636,0.00424507371746801,1000
+"UCI Breast Cancer","Dropout",0.1,"signal","Credible",0.898,0.0095753688016539,0.739142451543845,0,1000
+"UCI Breast Cancer","Dropout",0.1,"signal","Oracle",0.99,0.00314800093867676,1,0,1000
+"UCI Breast Cancer","Dropout",0.1,"signal","Split",1,0,1.32861240002851,0.00118413144911,1000
+"UCI Breast Cancer","Dropout",0.1,"leading","Credible",0.555,0.0157233018867609,0.529891773378942,0,1000
+"UCI Breast Cancer","Dropout",0.1,"leading","Oracle",0.988,0.00344497719409983,1,0,1000
+"UCI Breast Cancer","Dropout",0.1,"leading","Split",1,0,1.22856810129007,0.000786257191181403,1000
+"UCI Breast Cancer","Dropout",0.1,"trailing","Credible",0.977,0.0047427305946568,0.938230260207881,0,1000
+"UCI Breast Cancer","Dropout",0.1,"trailing","Oracle",0.985,0.003845749574503,1,0,1000
+"UCI Breast Cancer","Dropout",0.1,"trailing","Split",1,0,1.48243461464145,0.00188330483830945,1000
+"UCI Breast Cancer","Dropout",0.25,"signal","Credible",0.354,0.0151298682384518,0.502140513734535,0,1000
+"UCI Breast Cancer","Dropout",0.25,"signal","Oracle",0.986,0.00371723254825658,1,0,1000
+"UCI Breast Cancer","Dropout",0.25,"signal","Split",1,0,1.50306133608376,0.00215644020305974,1000
+"UCI Breast Cancer","Dropout",0.25,"leading","Credible",0,0,0.290612977514025,0,1000
+"UCI Breast Cancer","Dropout",0.25,"leading","Oracle",0.988,0.00344497719409983,1,0,1000
+"UCI Breast Cancer","Dropout",0.25,"leading","Split",1,0,1.28923501249674,0.00119840650925923,1000
+"UCI Breast Cancer","Dropout",0.25,"trailing","Credible",0.97,0.00539714082909922,0.911443922889988,0,1000
+"UCI Breast Cancer","Dropout",0.25,"trailing","Oracle",0.986,0.00371723254825659,1,0,1000
+"UCI Breast Cancer","Dropout",0.25,"trailing","Split",1,0,1.94052162567645,0.00410686188739945,1000
+"UCI Breast Cancer","Dropout",0.4,"signal","Credible",0.000999999999999999,0.001,0.362481364095552,0,1000
+"UCI Breast Cancer","Dropout",0.4,"signal","Oracle",0.986,0.00371723254825657,1,0,1000
+"UCI Breast Cancer","Dropout",0.4,"signal","Split",1,0,1.61466439883893,0.00276603145376849,1000
+"UCI Breast Cancer","Dropout",0.4,"leading","Credible",0,0,0.185135193818784,0,1000
+"UCI Breast Cancer","Dropout",0.4,"leading","Oracle",0.988,0.00344497719409983,1,0,1000
+"UCI Breast Cancer","Dropout",0.4,"leading","Split",1,0,1.31841923764818,0.00139158440502863,1000
+"UCI Breast Cancer","Dropout",0.4,"trailing","Credible",0.982,0.00420638724961149,0.970191497754828,0,1000
+"UCI Breast Cancer","Dropout",0.4,"trailing","Oracle",0.988,0.00344497719409982,1,0,1000
+"UCI Breast Cancer","Dropout",0.4,"trailing","Split",1,0,2.59769431989579,0.00674749532778437,1000
+"UCI Breast Cancer","Gaussian",0.05,"signal","Credible",0.973,0.00512808904927529,0.920886610542284,0,1000
+"UCI Breast Cancer","Gaussian",0.05,"signal","Oracle",0.987,0.00358383088940363,1,0,1000
+"UCI Breast Cancer","Gaussian",0.05,"signal","Split",1,0,1.38184321540377,0.0013111467017811,1000
+"UCI Breast Cancer","Gaussian",0.05,"leading","Credible",0.976,0.00484225644172706,0.998188023470881,0,1000
+"UCI Breast Cancer","Gaussian",0.05,"leading","Oracle",0.976,0.00484225644172706,1,0,1000
+"UCI Breast Cancer","Gaussian",0.05,"leading","Split",0.993,0.00263779414624376,1.11485642385961,3.36464826925859e-06,1000
+"UCI Breast Cancer","Gaussian",0.05,"trailing","Credible",0.989,0.00329998331660782,1.0843144333747,0,1000
+"UCI Breast Cancer","Gaussian",0.05,"trailing","Oracle",0.982,0.00420638724961148,1,0,1000
+"UCI Breast Cancer","Gaussian",0.05,"trailing","Split",1,0,1.58742649925982,0.00148387429933759,1000
+"UCI Breast Cancer","Gaussian",0.1,"signal","Credible",0.891,0.00985982840703719,0.74942097176733,0,1000
+"UCI Breast Cancer","Gaussian",0.1,"signal","Oracle",0.984,0.00396985639031942,1,0,1000
+"UCI Breast Cancer","Gaussian",0.1,"signal","Split",1,0,1.83391989947961,0.00355259508870445,1000
+"UCI Breast Cancer","Gaussian",0.1,"leading","Credible",0.976,0.00484225644172706,0.992793298915537,0,1000
+"UCI Breast Cancer","Gaussian",0.1,"leading","Oracle",0.977,0.0047427305946568,1,0,1000
+"UCI Breast Cancer","Gaussian",0.1,"leading","Split",0.993,0.00263779414624376,1.11636636206708,1.33819764332755e-05,1000
+"UCI Breast Cancer","Gaussian",0.1,"trailing","Credible",0.999,0.001,1.24785640727688,0,1000
+"UCI Breast Cancer","Gaussian",0.1,"trailing","Oracle",0.991,0.00298796384314265,1,0,1000
+"UCI Breast Cancer","Gaussian",0.1,"trailing","Split",1,0,2.81877223883795,0.0053461660162762,1000
+"UCI Breast Cancer","Gaussian",0.2,"signal","Credible",0.0749999999999999,0.00833333333333338,0.462699117656302,0,1000
+"UCI Breast Cancer","Gaussian",0.2,"signal","Oracle",0.983,0.00408995448968909,1,0,1000
+"UCI Breast Cancer","Gaussian",0.2,"signal","Split",1,0,2.28726133677833,0.00585310239606493,1000
+"UCI Breast Cancer","Gaussian",0.2,"leading","Credible",0.978,0.0046408552592747,0.971814129579472,0,1000
+"UCI Breast Cancer","Gaussian",0.2,"leading","Oracle",0.983,0.00408995448968909,1,0,1000
+"UCI Breast Cancer","Gaussian",0.2,"leading","Split",0.994,0.00244335219932981,1.12223802786991,5.23361554354507e-05,1000
+"UCI Breast Cancer","Gaussian",0.2,"trailing","Credible",1,0,1.4261573648845,0,1000
+"UCI Breast Cancer","Gaussian",0.2,"trailing","Oracle",0.994,0.00244335219932982,1,0,1000
+"UCI Breast Cancer","Gaussian",0.2,"trailing","Split",1,0,5.99403817818508,0.0153058409819925,1000
+"UCI Auto MPG","Dropout",0.1,"signal","Credible",0,0,0.201489330174797,0,1000
+"UCI Auto MPG","Dropout",0.1,"signal","Oracle",0.988,0.00344497719409985,1,0,1000
+"UCI Auto MPG","Dropout",0.1,"signal","Split",1,0,1.50851687764327,0.0037199358881538,1000
+"UCI Auto MPG","Dropout",0.1,"leading","Credible",0.98,0.00442940398017831,1.00016575627894,0,1000
+"UCI Auto MPG","Dropout",0.1,"leading","Oracle",0.98,0.00442940398017831,1,0,1000
+"UCI Auto MPG","Dropout",0.1,"leading","Split",0.991,0.00298796384314266,1.16138023366678,0.000286326567515766,1000
+"UCI Auto MPG","Dropout",0.1,"trailing","Credible",0,0,0.25044223540983,0,1000
+"UCI Auto MPG","Dropout",0.1,"trailing","Oracle",0.99,0.00314800093867676,1,0,1000
+"UCI Auto MPG","Dropout",0.1,"trailing","Split",1,0,1.75086956883313,0.00550285146195949,1000
+"UCI Auto MPG","Dropout",0.25,"signal","Credible",0,0,0.10366493516571,0,1000
+"UCI Auto MPG","Dropout",0.25,"signal","Oracle",0.987,0.00358383088940364,1,0,1000
+"UCI Auto MPG","Dropout",0.25,"signal","Split",1,0,1.44192565723442,0.00327967598181754,1000
+"UCI Auto MPG","Dropout",0.25,"leading","Credible",0.984,0.00396985639031941,1.01693919940659,0,1000
+"UCI Auto MPG","Dropout",0.25,"leading","Oracle",0.981,0.00431945108291066,1,0,1000
+"UCI Auto MPG","Dropout",0.25,"leading","Split",0.998,0.00141350557055781,1.26145109514441,0.000708093328347158,1000
+"UCI Auto MPG","Dropout",0.25,"trailing","Credible",0,0,0.144457229695995,0,1000
+"UCI Auto MPG","Dropout",0.25,"trailing","Oracle",0.99,0.00314800093867676,1,0,1000
+"UCI Auto MPG","Dropout",0.25,"trailing","Split",1,0,1.80460395280176,0.00596981189837421,1000
+"UCI Auto MPG","Dropout",0.4,"signal","Credible",0,0,0.0684160721943543,0,1000
+"UCI Auto MPG","Dropout",0.4,"signal","Oracle",0.985,0.00384574957450299,1,0,1000
+"UCI Auto MPG","Dropout",0.4,"signal","Split",1,0,1.39561906298352,0.00294727121379786,1000
+"UCI Auto MPG","Dropout",0.4,"leading","Credible",0.988,0.00344497719409986,1.05692007572006,0,1000
+"UCI Auto MPG","Dropout",0.4,"leading","Oracle",0.98,0.00442940398017831,1,0,1000
+"UCI Auto MPG","Dropout",0.4,"leading","Split",1,0,1.42717854719853,0.00128254847774235,1000
+"UCI Auto MPG","Dropout",0.4,"trailing","Credible",0,0,0.101952758046967,0,1000
+"UCI Auto MPG","Dropout",0.4,"trailing","Oracle",0.992,0.00281850030050451,1,0,1000
+"UCI Auto MPG","Dropout",0.4,"trailing","Split",1,0,1.81916316843121,0.00609690642884167,1000
+"UCI Auto MPG","Gaussian",0.05,"signal","Credible",0.972,0.00521950603441005,0.869913656164184,0,1000
+"UCI Auto MPG","Gaussian",0.05,"signal","Oracle",0.989,0.00329998331660782,1,0,1000
+"UCI Auto MPG","Gaussian",0.05,"signal","Split",0.995,0.00223158687484488,1.20944569533383,0.000850233064647613,1000
+"UCI Auto MPG","Gaussian",0.05,"leading","Credible",0.977,0.0047427305946568,1.00012739762069,0,1000
+"UCI Auto MPG","Gaussian",0.05,"leading","Oracle",0.977,0.0047427305946568,1,0,1000
+"UCI Auto MPG","Gaussian",0.05,"leading","Split",0.988,0.00344497719409986,1.11547670777305,5.53844526615341e-06,1000
+"UCI Auto MPG","Gaussian",0.05,"trailing","Credible",0.973,0.00512808904927529,0.884808321172688,0,1000
+"UCI Auto MPG","Gaussian",0.05,"trailing","Oracle",0.99,0.00314800093867676,1,0,1000
+"UCI Auto MPG","Gaussian",0.05,"trailing","Split",1,0,1.22139997702575,0.000926229910933468,1000
+"UCI Auto MPG","Gaussian",0.1,"signal","Credible",0.809,0.0124367871121795,0.641731052878119,0,1000
+"UCI Auto MPG","Gaussian",0.1,"signal","Oracle",0.991,0.00298796384314266,1,0,1000
+"UCI Auto MPG","Gaussian",0.1,"signal","Split",1,0,1.36412807711044,0.00224497579937034,1000
+"UCI Auto MPG","Gaussian",0.1,"leading","Credible",0.977,0.0047427305946568,1.00050888168331,0,1000
+"UCI Auto MPG","Gaussian",0.1,"leading","Oracle",0.977,0.0047427305946568,1,0,1000
+"UCI Auto MPG","Gaussian",0.1,"leading","Split",0.988,0.00344497719409986,1.11885696641445,2.21435636358986e-05,1000
+"UCI Auto MPG","Gaussian",0.1,"trailing","Credible",0.847,0.0113895004596655,0.676618267962088,0,1000
+"UCI Auto MPG","Gaussian",0.1,"trailing","Oracle",0.99,0.00314800093867676,1,0,1000
+"UCI Auto MPG","Gaussian",0.1,"trailing","Split",1,0,1.41047346130481,0.00256214159798977,1000
+"UCI Auto MPG","Gaussian",0.2,"signal","Credible",0,0,0.350024534461884,0,1000
+"UCI Auto MPG","Gaussian",0.2,"signal","Oracle",0.99,0.00314800093867677,1,0,1000
+"UCI Auto MPG","Gaussian",0.2,"signal","Split",1,0,1.50725818801575,0.00359538711280007,1000
+"UCI Auto MPG","Gaussian",0.2,"leading","Credible",0.978,0.0046408552592747,1.00202424378443,0,1000
+"UCI Auto MPG","Gaussian",0.2,"leading","Oracle",0.978,0.0046408552592747,1,0,1000
+"UCI Auto MPG","Gaussian",0.2,"leading","Split",0.989,0.00329998331660782,1.1323468785648,8.84111519512425e-05,1000
+"UCI Auto MPG","Gaussian",0.2,"trailing","Credible",0.000999999999999999,0.00100000000000001,0.398254681836183,0,1000
+"UCI Auto MPG","Gaussian",0.2,"trailing","Oracle",0.99,0.00314800093867676,1,0,1000
+"UCI Auto MPG","Gaussian",0.2,"trailing","Split",1,0,1.64461129416564,0.00458796144586297,1000
