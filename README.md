@@ -56,7 +56,7 @@ All reported procedures target total failure probability `0.025`.
 The high-dimensional fixed designs are block-orthogonal between the true
 support and nuisance coordinates. Therefore, the smallest eigenvalue of the standardized signal-block Gram matrix
 
-$$\phi_0^2 = \lambda_{\min}(X_\mathcal{S}^\top X_\mathcal{S} / n_{\mathrm{cal}})$$
+$$\phi_0^2 = \lambda_{\min}(\mathbf{X}_{\mathrm{inf},\mathcal{S}}^\top \mathbf{X}_{\mathrm{inf},\mathcal{S}} / n_{\mathrm{cal}})$$
 
 is a certified compatibility constant where $\lambda_{\min}$ denotes the smallest eigenvalue. The Lasso localization radius is the
 paper's theoretical value $12  s  \lambda / \phi_0^2$. No empirical radius
