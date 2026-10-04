@@ -67,15 +67,15 @@ For every high-dimensional design/augmentation/direction cell, the certificate
 is chosen before observing any inference response. Candidate vectors are zero
 and 25 ridge solutions
 
-$$
-\mathbf{a} (\kappa) = (\mathbf{X}_{\mathrm{inf}} \mathbf{X}_{\mathrm{inf}}^\top + \kappa \mathbf{I}_{n_{\mathrm{inf}}})^{-1} \mathbf{X}_{\mathrm{inf}} \mathbf{g}_v \\
-\kappa = tr(\mathbf{X}_{\mathrm{inf}} \mathbf{X}_{\mathrm{inf}}^\top) / n_{\mathrm{inf}} \cdot 10^t \\
-$$
+$\mathbf{a} (\kappa) = (\mathbf{X}_{\mathrm{inf}} \mathbf{X}_{\mathrm{inf}}^\top + \kappa \mathbf{I}_{n_{\mathrm{inf}}})^{-1} \mathbf{X}_{\mathrm{inf}} \mathbf{g}_v$
+
+$\kappa = tr(\mathbf{X}_{\mathrm{inf}} \mathbf{X}_{\mathrm{inf}}^\top) / n_{\mathrm{inf}} \cdot 10^t$
+
 with $t$ equally spaced from -5 to 3.
 
 The selected candidate minimizes
 
-$$z_{1 - \eta/2}  \sigma  \Vert \mathbf{a} \Vert_2 + R  ||\mathbf{g}_v - \mathbf{X}_{\mathrm{inf}}^\top \mathbf{a}||_\infty.$$
+$$z_{1 - \eta/2}  \sigma  \Vert \mathbf{a} \Vert_2 + R  \Vert \mathbf{g}_v - \mathbf{X}_{\mathrm{inf}}^\top \mathbf{a} \Vert_\infty.$$
 
  This search depends on
 the fixed design but not on inference noise.
